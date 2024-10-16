@@ -40,14 +40,14 @@ pip install selenium webdriver-manager
 3.Install the WebDriver Manager for Firefox: 
 pip install webdriver-manager
 
-How to Use
+# How to Use
 1-Launch the Script:
 
 Open a terminal or command prompt.
 Run the script using:
 python wuzzuf_scraper.py
 
-2-How it Works:
+ # 2-How it Works:
 
 The script opens the Wuzzuf website.
 Searches for the specified job title (e.g., "Engineer").
