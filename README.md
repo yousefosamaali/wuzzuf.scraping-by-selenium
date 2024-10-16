@@ -47,7 +47,7 @@ Open a terminal or command prompt.
 Run the script using:
 python wuzzuf_scraper.py
 
- # 2-How it Works:
+2-How it Works:
 
 The script opens the Wuzzuf website.
 Searches for the specified job title (e.g., "Engineer").
