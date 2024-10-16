@@ -6,7 +6,7 @@ A Python project using Selenium to scrape job listings from the Wuzzuf website. 
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
+- [Setup Instructions](#setup-instructions) 
 - [How to Use](#how-to-use)
 - [Project Structure](#project-structure)
 - [Disclaimer](#disclaimer)
