@@ -1,5 +1,5 @@
 # wuzzuf.scraping-by-selenium
-# Wuzzuf Job Listings Scraper
+
 
 A Python project using Selenium to scrape job listings from the Wuzzuf website. The script searches for specific jobs, navigates through the pages, and extracts job titles and recruiters, saving the results to a CSV file.
 
